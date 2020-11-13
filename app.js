@@ -19,7 +19,7 @@ button.addEventListener('click', ()=>{
     else if(muki == 3)
     alert("Nambura Mathiri Ilayae...! ");
     else {
-        location = "page1.html";
+        location = "https://muki26.github.io/dw1/";
     }
 
     
